@@ -48,8 +48,8 @@
           justify-content: center;
         }
         .typing-demo {
-          width: 37ch;
-          animation: typing 4s steps(37), blink .3s step-end infinite alternate;
+          width: 32ch;
+          animation: typing 4s steps(32), blink .3s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
           border-right: 3px solid;
@@ -74,7 +74,7 @@
 			<div class="container">
         <div class="wrapper">
             <div class="typing-demo">
-              Hello there. I'm <b>Tarcisio Cavalcante</b>.
+              Hello there. I'm <b>Murilo Augusto</b>.
             </div>          
         </div>
 			</div>
