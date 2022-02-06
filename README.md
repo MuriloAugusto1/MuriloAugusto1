@@ -15,7 +15,7 @@
   <img align="center" alt="Murilo-Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Murilo-Heroku" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
   
-</div><br>
+</div><br><br>
   
 <div align="center">
   <a href="https://github.com/MuriloAugusto1">
